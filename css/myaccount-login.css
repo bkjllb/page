@@ -1,0 +1,99 @@
+#wrapper
+{
+    min-height:100%;
+    position:relative;
+    margin-bottom: -75px;
+}
+#content
+{
+
+}
+table
+{
+    font-size: 14px;
+}
+#headerPanel
+{
+    margin-bottom: 60px;
+}
+#myAccountTitle
+{
+    margin-left: 100px;
+    margin-top: 30px;
+
+    font-size: 1em;
+    font-weight: bold;
+    color: #004d99;
+}
+
+#loginPanel form fieldset legend
+{
+    text-transform: uppercase;
+    font-weight: normal;
+    color: #CC0000;
+}
+
+#loginPanel form fieldset div.pure-control-group
+{
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+#loginPanel form fieldset div.pure-control-group input
+{
+    width: 100%;
+}
+
+#loginPanel form fieldset div.pure-control-group  #m_submitButton
+{
+    width: 50%;
+}
+
+.adcode
+{
+    text-align: right;
+    margin-top: 30px;
+}
+
+#footer
+{
+    background-color: #004d99;
+
+    width: 100%;
+    height: 75px;
+
+    position: relative;
+}
+.clearfooter {
+    height: 75px;
+    clear: both;
+}
+
+#footerContent
+{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#footerContent, #footerContent a, #footerContent p
+{
+    color: white;
+    font-weight: normal;
+}
+#isp-badges
+{
+    float: right;
+    margin-top: 23px;
+}
+#isp-badges li
+{
+    display:inline-block;
+    margin-right: 2em;
+}
+
+#errorListing td
+{
+    color: #CC0000;
+}
+
+input[type="text"]#website { display: none; }
